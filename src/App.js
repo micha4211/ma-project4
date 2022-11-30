@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Upload Project 4 to Git.
+          Test Pipeline
         </p>
         <a
           className="App-link"
